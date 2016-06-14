@@ -11,3 +11,9 @@
 
 ##3.java源码分析之LinkedList
 [java源码分析之LinkedList](http://blog.csdn.net/jzhf2012/article/details/8540543)
+
+##4.[Java transient关键字使用小记](http://www.cnblogs.com/lanxuezaipiao/p/3369962.html)  
+
+##5.SQL 内连接 外连接等等
+[SQL 连接 JOIN 例解。（左连接，右连接，全连接，内连接，交叉连接，自连接）](http://www.cnblogs.com/eflylab/archive/2007/06/25/794278.html)   
+[SQL的几种连接：内连接、左联接、右连接、全连接、交叉连接](http://dataunion.org/11954.html)
