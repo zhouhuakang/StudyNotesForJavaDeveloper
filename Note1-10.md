@@ -17,3 +17,6 @@
 ##5.SQL 内连接 外连接等等
 [SQL 连接 JOIN 例解。（左连接，右连接，全连接，内连接，交叉连接，自连接）](http://www.cnblogs.com/eflylab/archive/2007/06/25/794278.html)   
 [SQL的几种连接：内连接、左联接、右连接、全连接、交叉连接](http://dataunion.org/11954.html)
+
+##6.[JAVA常见面试题之Forward和Redirect的区别](http://www.cnblogs.com/selene/p/4518246.html)
+[Http协议3XX重定向介绍及301跳转和302跳转应用场景](http://www.169it.com/article/3218595448.html)
